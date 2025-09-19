@@ -317,8 +317,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![Uploading WhatsApp Image 2025-09-19 at 19.07.40_4032d436.jpg…]()
+
+![WhatsApp Image 2025-09-19 at 19 07 40_4032d436](https://github.com/user-attachments/assets/cf1c661a-4004-4d1f-9e67-5f28f18f09e9)
+
 
  
 ## Result :
